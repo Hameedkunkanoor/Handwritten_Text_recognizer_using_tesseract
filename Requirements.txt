@@ -1,0 +1,12 @@
+i have used pytesseract
+packages used :
+1.pytesseract
+2.PIL
+pip install tesseract
+pip install pytesseract
+pip install pillow
+
+if you are unable to open camera using opencv 
+in mac
+go to system preferneces->security and privacy ->camera->add terminal
+also installed cmake
