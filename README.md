@@ -1,0 +1,1 @@
+# Handwritten_Text_recognizer_using_tesseract
